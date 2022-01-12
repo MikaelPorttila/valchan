@@ -1,0 +1,22 @@
+{
+  "name": "valchan",
+  "version": "1.0.0",
+  "description": "Valchan",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaelPorttila/valchan.git"
+  },
+  "author": "Mikael Porttila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikaelPorttila/valchan/issues"
+  },
+  "homepage": "https://github.com/MikaelPorttila/valchan#readme",
+  "devDependencies": {
+    "@vercel/node": "^1.12.1"
+  }
+}
